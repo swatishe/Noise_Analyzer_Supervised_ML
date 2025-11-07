@@ -21,6 +21,8 @@ type: Whether the location is Indoor or Outdoor
 zone_type: Categorized noise level (Quiet, Moderate, Loud)
 
 Dataset Overview:
+
+
 <img width="859" height="520" alt="image" src="https://github.com/user-attachments/assets/b48b66cd-0202-49fd-b74c-58b875ff51e3" />
 
 
@@ -74,7 +76,7 @@ Logistic Regression – A linear model adapted for multi-class classification us
 
 The models were evaluated using accuracy, precision, recall, and F1-score. A train-test split of 75%-25% was used, with feature scaling applied.
 
-6.1 Decision Tree
+**6.1 Decision Tree**
 
 Accuracy: 91.04%
 
@@ -91,7 +93,7 @@ Confusion Matrix:
  [ 0  2 26]]
 
 
-6.2 Random Forest
+**6.2 Random Forest**
 
 Accuracy: 91.04%
 
@@ -108,7 +110,7 @@ Confusion Matrix:
  [ 0  2 26]]
 
 
-6.3 Logistic Regression
+**6.3 Logistic Regression**
 
 Accuracy: 94.03%
 
