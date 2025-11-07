@@ -1,0 +1,268 @@
+timestamp,location,decibel_level,area_size,type,zone_type
+2024-10-28 09:00:00,University Center,49.6,Large,Outdoor,Quiet
+2024-10-28 09:00:01,University Center,62.8,Large,Outdoor,Moderate
+2024-10-28 09:00:03,University Center,62.8,Large,Outdoor,Moderate
+2024-10-28 09:00:04,University Center,57.9,Large,Outdoor,Moderate
+2024-10-28 09:00:06,University Center,47.5,Large,Outdoor,Moderate
+2024-10-28 09:00:07,University Center,64.6,Large,Outdoor,Moderate
+2024-10-28 09:00:09,University Center,48.9,Large,Outdoor,Moderate
+2024-10-28 09:07:11,University Center,70.1,Large,Outdoor,Moderate
+2024-10-28 09:07:13,University Center,63.8,Large,Outdoor,Moderate
+2024-10-28 09:07:14,University Center,77.3,Large,Outdoor,Moderate
+2024-10-28 09:07:16,University Center,59.9,Large,Outdoor,Moderate
+2024-10-28 09:07:17,University Center,63.2,Large,Outdoor,Moderate
+2024-10-28 09:17:20,University Center,68.5,Large,Outdoor,Moderate
+2024-10-28 09:17:21,University Center,70.9,Large,Outdoor,Moderate
+2024-10-28 09:17:22,University Center,66.8,Large,Outdoor,Moderate
+2024-10-28 09:17:25,University Center,61.7,Large,Outdoor,Moderate
+2024-10-28 09:17:26,University Center,61.5,Large,Outdoor,Moderate
+2024-10-28 09:24:29,University Center,45.2,Large,Outdoor,Moderate
+2024-10-28 09:24:30,University Center,61.4,Large,Outdoor,Moderate
+2024-10-28 09:24:32,University Center,72.3,Large,Outdoor,Moderate
+2024-10-28 09:24:34,University Center,60.1,Large,Outdoor,Moderate
+2024-10-28 09:24:36,University Center,55.4,Large,Outdoor,Moderate
+2024-10-28 09:24:39,University Center,43.6,Large,Outdoor,Moderate
+2024-10-28 09:24:40,University Center,64.8,Large,Outdoor,Moderate
+2024-10-28 09:30:43,University Center,71.7,Large,Outdoor,Moderate
+2024-10-28 09:30:45,University Center,53.8,Large,Outdoor,Moderate
+2024-10-28 09:30:46,University Center,77.0,Large,Outdoor,Moderate
+2024-10-28 09:30:48,University Center,58.1,Large,Outdoor,Moderate
+2024-10-28 09:30:51,University Center,50.7,Large,Outdoor,Moderate
+2024-10-28 09:37:53,University Center,49.7,Large,Outdoor,Moderate
+2024-10-28 09:37:55,University Center,63.5,Large,Outdoor,Moderate
+2024-10-28 09:37:58,University Center,61.5,Large,Outdoor,Moderate
+2024-10-28 09:37:59,University Center,48.4,Large,Outdoor,Moderate
+2024-10-28 09:38:01,University Center,50.7,Large,Outdoor,Moderate
+2024-10-28 09:38:04,University Center,61.9,Large,Outdoor,Moderate
+2024-10-28 09:38:06,University Center,47.6,Large,Outdoor,Moderate
+2024-10-28 09:44:09,University Center,68.8,Large,Outdoor,Moderate
+2024-10-28 09:44:10,University Center,74.8,Large,Outdoor,Moderate
+2024-10-28 09:44:13,University Center,60.8,Large,Outdoor,Moderate
+2024-10-28 09:44:15,University Center,51.5,Large,Outdoor,Moderate
+2024-10-28 09:44:18,University Center,57.1,Large,Outdoor,Moderate
+2024-10-28 09:44:20,University Center,51.0,Large,Outdoor,Moderate
+2024-10-28 09:54:23,University Center,60.6,Large,Outdoor,Moderate
+2024-10-28 09:54:24,University Center,54.6,Large,Outdoor,Moderate
+2024-10-28 09:54:25,University Center,65.4,Large,Outdoor,Moderate
+2024-10-28 09:54:28,University Center,82.7,Large,Outdoor,Moderate
+2024-10-28 09:54:29,University Center,69.1,Large,Outdoor,Moderate
+2024-10-28 14:00:00,Albin O Kuhn Library,49.4,Large,Indoor,Moderate
+2024-10-28 14:00:01,Albin O Kuhn Library,63.5,Large,Indoor,Quiet
+2024-10-28 14:00:02,Albin O Kuhn Library,49.3,Large,Indoor,Quiet
+2024-10-28 14:00:03,Albin O Kuhn Library,52.7,Large,Indoor,Quiet
+2024-10-28 14:00:05,Albin O Kuhn Library,42.1,Large,Indoor,Quiet
+2024-10-28 14:00:06,Albin O Kuhn Library,54.1,Large,Indoor,Quiet
+2024-10-28 14:00:07,Albin O Kuhn Library,68.8,Large,Indoor,Quiet
+2024-10-28 14:00:08,Albin O Kuhn Library,48.7,Large,Indoor,Quiet
+2024-10-28 14:10:09,Albin O Kuhn Library,67.0,Large,Indoor,Quiet
+2024-10-28 14:10:12,Albin O Kuhn Library,53.5,Large,Indoor,Quiet
+2024-10-28 14:10:14,Albin O Kuhn Library,66.8,Large,Indoor,Quiet
+2024-10-28 14:10:15,Albin O Kuhn Library,52.0,Large,Indoor,Quiet
+2024-10-28 14:10:17,Albin O Kuhn Library,53.5,Large,Indoor,Quiet
+2024-10-28 14:10:18,Albin O Kuhn Library,65.9,Large,Indoor,Quiet
+2024-10-28 14:10:21,Albin O Kuhn Library,60.6,Large,Indoor,Quiet
+2024-10-28 14:10:23,Albin O Kuhn Library,57.6,Large,Indoor,Quiet
+2024-10-28 14:19:26,Albin O Kuhn Library,46.2,Large,Indoor,Quiet
+2024-10-28 14:19:29,Albin O Kuhn Library,64.7,Large,Indoor,Quiet
+2024-10-28 14:19:30,Albin O Kuhn Library,46.4,Large,Indoor,Quiet
+2024-10-28 14:19:31,Albin O Kuhn Library,47.0,Large,Indoor,Quiet
+2024-10-28 14:19:33,Albin O Kuhn Library,62.2,Large,Indoor,Moderate
+2024-10-28 14:19:35,Albin O Kuhn Library,57.1,Large,Indoor,Quiet
+2024-10-28 14:19:38,Albin O Kuhn Library,56.5,Large,Indoor,Quiet
+2024-10-28 14:19:40,Albin O Kuhn Library,60.3,Large,Indoor,Quiet
+2024-10-28 14:29:43,Albin O Kuhn Library,47.9,Large,Indoor,Quiet
+2024-10-28 14:29:44,Albin O Kuhn Library,60.3,Large,Indoor,Quiet
+2024-10-28 14:29:46,Albin O Kuhn Library,49.4,Large,Indoor,Quiet
+2024-10-28 14:29:47,Albin O Kuhn Library,64.5,Large,Indoor,Quiet
+2024-10-28 14:29:50,Albin O Kuhn Library,64.7,Large,Indoor,Quiet
+2024-10-28 14:29:52,Albin O Kuhn Library,43.7,Large,Indoor,Quiet
+2024-10-28 14:37:54,Albin O Kuhn Library,54.0,Large,Indoor,Quiet
+2024-10-28 14:37:56,Albin O Kuhn Library,59.1,Large,Indoor,Quiet
+2024-10-28 14:37:58,Albin O Kuhn Library,56.5,Large,Indoor,Quiet
+2024-10-28 14:37:59,Albin O Kuhn Library,55.0,Large,Indoor,Quiet
+2024-10-28 14:38:01,Albin O Kuhn Library,59.7,Large,Indoor,Quiet
+2024-10-28 14:47:04,Albin O Kuhn Library,56.6,Large,Indoor,Quiet
+2024-10-28 14:47:06,Albin O Kuhn Library,60.2,Large,Indoor,Quiet
+2024-10-28 14:47:09,Albin O Kuhn Library,66.7,Large,Indoor,Quiet
+2024-10-28 14:47:12,Albin O Kuhn Library,58.2,Large,Indoor,Quiet
+2024-10-28 14:47:14,Albin O Kuhn Library,48.4,Large,Indoor,Quiet
+2024-10-28 14:47:16,Albin O Kuhn Library,56.9,Large,Indoor,Quiet
+2024-10-28 14:47:17,Albin O Kuhn Library,45.5,Large,Indoor,Quiet
+2024-10-28 14:57:18,Albin O Kuhn Library,58.2,Large,Indoor,Quiet
+2024-10-28 14:57:21,Albin O Kuhn Library,51.6,Large,Indoor,Quiet
+2024-10-28 14:57:24,Albin O Kuhn Library,59.8,Large,Indoor,Quiet
+2024-10-28 14:57:25,Albin O Kuhn Library,51.2,Large,Indoor,Quiet
+2024-10-28 14:57:28,Albin O Kuhn Library,52.5,Large,Indoor,Quiet
+2024-10-28 15:06:29,Albin O Kuhn Library,37.3,Large,Indoor,Quiet
+2024-10-28 15:06:31,Albin O Kuhn Library,36.7,Large,Indoor,Quiet
+2024-10-28 15:06:32,Albin O Kuhn Library,52.3,Large,Indoor,Quiet
+2024-10-28 15:06:34,Albin O Kuhn Library,48.4,Large,Indoor,Quiet
+2024-10-28 15:06:37,Albin O Kuhn Library,50.2,Large,Indoor,Quiet
+2024-10-28 15:06:40,Albin O Kuhn Library,55.4,Large,Indoor,Quiet
+2024-10-28 15:16:41,Albin O Kuhn Library,40.9,Large,Indoor,Quiet
+2024-10-28 15:16:44,Albin O Kuhn Library,57.7,Large,Indoor,Quiet
+2024-10-28 15:16:47,Albin O Kuhn Library,41.7,Large,Indoor,Quiet
+2024-10-28 15:16:48,Albin O Kuhn Library,67.5,Large,Indoor,Quiet
+2024-10-28 15:16:50,Albin O Kuhn Library,49.8,Large,Indoor,Quiet
+2024-10-28 15:16:53,Albin O Kuhn Library,40.8,Large,Indoor,Quiet
+2024-10-28 15:16:56,Albin O Kuhn Library,40.0,Large,Indoor,Quiet
+2024-10-28 15:16:58,Albin O Kuhn Library,35.0,Large,Indoor,Quiet
+2024-10-29 09:00:00,Commons Cafeteria,72.5,Large,Indoor,Moderate
+2024-10-29 09:00:03,Commons Cafeteria,70.5,Large,Indoor,Loud
+2024-10-29 09:00:05,Commons Cafeteria,66.1,Large,Indoor,Loud
+2024-10-29 09:00:08,Commons Cafeteria,81.1,Large,Indoor,Loud
+2024-10-29 09:00:10,Commons Cafeteria,85.0,Large,Indoor,Loud
+2024-10-29 09:00:12,Commons Cafeteria,61.2,Large,Indoor,Loud
+2024-10-29 09:00:13,Commons Cafeteria,82.1,Large,Indoor,Loud
+2024-10-29 09:05:14,Commons Cafeteria,60.1,Large,Indoor,Loud
+2024-10-29 09:05:15,Commons Cafeteria,61.3,Large,Indoor,Loud
+2024-10-29 09:05:18,Commons Cafeteria,69.6,Large,Indoor,Loud
+2024-10-29 09:05:20,Commons Cafeteria,68.1,Large,Indoor,Loud
+2024-10-29 09:05:22,Commons Cafeteria,81.0,Large,Indoor,Loud
+2024-10-29 09:15:23,Commons Cafeteria,76.0,Large,Indoor,Loud
+2024-10-29 09:15:25,Commons Cafeteria,65.8,Large,Indoor,Loud
+2024-10-29 09:15:27,Commons Cafeteria,83.1,Large,Indoor,Loud
+2024-10-29 09:15:29,Commons Cafeteria,63.4,Large,Indoor,Loud
+2024-10-29 09:15:30,Commons Cafeteria,59.5,Large,Indoor,Loud
+2024-10-29 09:15:33,Commons Cafeteria,76.6,Large,Indoor,Loud
+2024-10-29 09:20:34,Commons Cafeteria,73.7,Large,Indoor,Loud
+2024-10-29 09:20:37,Commons Cafeteria,69.5,Large,Indoor,Loud
+2024-10-29 09:20:40,Commons Cafeteria,60.6,Large,Indoor,Loud
+2024-10-29 09:20:43,Commons Cafeteria,71.5,Large,Indoor,Loud
+2024-10-29 09:20:44,Commons Cafeteria,80.5,Large,Indoor,Loud
+2024-10-29 09:25:45,Commons Cafeteria,71.0,Large,Indoor,Loud
+2024-10-29 09:25:46,Commons Cafeteria,80.0,Large,Indoor,Loud
+2024-10-29 09:25:49,Commons Cafeteria,85.0,Large,Indoor,Loud
+2024-10-29 09:25:52,Commons Cafeteria,58.5,Large,Indoor,Loud
+2024-10-29 09:25:53,Commons Cafeteria,62.3,Large,Indoor,Loud
+2024-10-29 09:30:56,Commons Cafeteria,80.3,Large,Indoor,Loud
+2024-10-29 09:30:58,Commons Cafeteria,68.1,Large,Indoor,Loud
+2024-10-29 09:30:59,Commons Cafeteria,76.4,Large,Indoor,Loud
+2024-10-29 09:31:00,Commons Cafeteria,66.3,Large,Indoor,Loud
+2024-10-29 09:31:03,Commons Cafeteria,68.5,Large,Indoor,Moderate
+2024-10-29 09:31:05,Commons Cafeteria,65.1,Large,Indoor,Loud
+2024-10-29 09:31:08,Commons Cafeteria,72.3,Large,Indoor,Loud
+2024-10-29 09:31:09,Commons Cafeteria,85.0,Large,Indoor,Loud
+2024-10-29 09:41:12,Commons Cafeteria,65.1,Large,Indoor,Loud
+2024-10-29 09:41:14,Commons Cafeteria,81.9,Large,Indoor,Loud
+2024-10-29 09:41:17,Commons Cafeteria,75.4,Large,Indoor,Loud
+2024-10-29 09:41:18,Commons Cafeteria,68.8,Large,Indoor,Loud
+2024-10-29 09:41:19,Commons Cafeteria,78.0,Large,Indoor,Loud
+2024-10-29 09:48:21,Commons Cafeteria,74.3,Large,Indoor,Loud
+2024-10-29 09:48:22,Commons Cafeteria,62.9,Large,Indoor,Loud
+2024-10-29 09:48:23,Commons Cafeteria,72.9,Large,Indoor,Loud
+2024-10-29 09:48:26,Commons Cafeteria,75.7,Large,Indoor,Loud
+2024-10-29 09:48:27,Commons Cafeteria,72.0,Large,Indoor,Loud
+2024-10-29 09:48:28,Commons Cafeteria,75.5,Large,Indoor,Moderate
+2024-10-29 09:53:31,Commons Cafeteria,82.2,Large,Indoor,Loud
+2024-10-29 09:53:34,Commons Cafeteria,61.9,Large,Indoor,Loud
+2024-10-29 09:53:37,Commons Cafeteria,71.8,Large,Indoor,Loud
+2024-10-29 09:53:40,Commons Cafeteria,78.7,Large,Indoor,Loud
+2024-10-29 09:53:43,Commons Cafeteria,52.3,Large,Indoor,Loud
+2024-10-29 09:53:45,Commons Cafeteria,77.7,Large,Indoor,Loud
+2024-10-29 09:53:46,Commons Cafeteria,66.2,Large,Indoor,Loud
+2024-10-29 09:53:48,Commons Cafeteria,77.2,Large,Indoor,Loud
+2024-10-30 09:00:00,ITE Building,70.4,Medium,Indoor,Moderate
+2024-10-30 09:00:02,ITE Building,69.3,Medium,Indoor,Moderate
+2024-10-30 09:00:04,ITE Building,52.1,Medium,Indoor,Moderate
+2024-10-30 09:00:05,ITE Building,61.9,Medium,Indoor,Moderate
+2024-10-30 09:00:07,ITE Building,54.8,Medium,Indoor,Moderate
+2024-10-30 09:08:08,ITE Building,67.0,Medium,Indoor,Moderate
+2024-10-30 09:08:10,ITE Building,52.5,Medium,Indoor,Moderate
+2024-10-30 09:08:13,ITE Building,61.4,Medium,Indoor,Moderate
+2024-10-30 09:08:15,ITE Building,63.6,Medium,Indoor,Moderate
+2024-10-30 09:08:16,ITE Building,66.6,Medium,Indoor,Moderate
+2024-10-30 09:08:18,ITE Building,63.0,Medium,Indoor,Moderate
+2024-10-30 09:08:21,ITE Building,44.1,Medium,Indoor,Moderate
+2024-10-30 09:14:24,ITE Building,60.7,Medium,Indoor,Moderate
+2024-10-30 09:14:25,ITE Building,64.3,Medium,Indoor,Moderate
+2024-10-30 09:14:27,ITE Building,58.8,Medium,Indoor,Moderate
+2024-10-30 09:14:29,ITE Building,68.0,Medium,Indoor,Quiet
+2024-10-30 09:14:31,ITE Building,55.5,Medium,Indoor,Moderate
+2024-10-30 09:21:34,ITE Building,48.7,Medium,Indoor,Moderate
+2024-10-30 09:21:37,ITE Building,51.1,Medium,Indoor,Moderate
+2024-10-30 09:21:40,ITE Building,68.8,Medium,Indoor,Moderate
+2024-10-30 09:21:41,ITE Building,50.2,Medium,Indoor,Moderate
+2024-10-30 09:21:42,ITE Building,58.3,Medium,Indoor,Moderate
+2024-10-30 09:21:45,ITE Building,54.2,Medium,Indoor,Moderate
+2024-10-30 09:21:47,ITE Building,58.6,Medium,Indoor,Moderate
+2024-10-30 09:21:49,ITE Building,51.3,Medium,Indoor,Moderate
+2024-10-30 09:30:52,ITE Building,65.8,Medium,Indoor,Moderate
+2024-10-30 09:30:55,ITE Building,57.8,Medium,Indoor,Moderate
+2024-10-30 09:30:58,ITE Building,52.8,Medium,Indoor,Moderate
+2024-10-30 09:30:59,ITE Building,64.7,Medium,Indoor,Moderate
+2024-10-30 09:31:02,ITE Building,64.2,Medium,Indoor,Moderate
+2024-10-30 09:36:04,ITE Building,49.3,Medium,Indoor,Moderate
+2024-10-30 09:36:06,ITE Building,66.8,Medium,Indoor,Moderate
+2024-10-30 09:36:08,ITE Building,67.1,Medium,Indoor,Moderate
+2024-10-30 09:36:11,ITE Building,68.7,Medium,Indoor,Moderate
+2024-10-30 09:36:14,ITE Building,54.7,Medium,Indoor,Moderate
+2024-10-30 09:36:17,ITE Building,63.3,Medium,Indoor,Moderate
+2024-10-30 09:41:18,ITE Building,54.5,Medium,Indoor,Moderate
+2024-10-30 09:41:20,ITE Building,65.5,Medium,Indoor,Moderate
+2024-10-30 09:41:21,ITE Building,44.7,Medium,Indoor,Moderate
+2024-10-30 09:41:22,ITE Building,64.9,Medium,Indoor,Moderate
+2024-10-30 09:41:23,ITE Building,47.2,Medium,Indoor,Moderate
+2024-10-30 09:41:26,ITE Building,58.5,Medium,Indoor,Moderate
+2024-10-30 09:41:28,ITE Building,67.6,Medium,Indoor,Moderate
+2024-10-30 09:41:30,ITE Building,51.8,Medium,Indoor,Moderate
+2024-10-30 09:48:31,ITE Building,56.7,Medium,Indoor,Moderate
+2024-10-30 09:48:34,ITE Building,67.8,Medium,Indoor,Moderate
+2024-10-30 09:48:36,ITE Building,55.5,Medium,Indoor,Moderate
+2024-10-30 09:48:38,ITE Building,49.9,Medium,Indoor,Moderate
+2024-10-30 09:48:41,ITE Building,56.8,Medium,Indoor,Moderate
+2024-10-30 09:48:44,ITE Building,56.2,Medium,Indoor,Moderate
+2024-10-30 09:48:45,ITE Building,59.5,Medium,Indoor,Moderate
+2024-10-31 09:00:00,Sondheim Hall,56.0,Medium,Indoor,Quiet
+2024-10-31 09:00:01,Sondheim Hall,40.5,Medium,Indoor,Quiet
+2024-10-31 09:00:04,Sondheim Hall,45.4,Medium,Indoor,Quiet
+2024-10-31 09:00:07,Sondheim Hall,50.1,Medium,Indoor,Quiet
+2024-10-31 09:00:08,Sondheim Hall,45.9,Medium,Indoor,Quiet
+2024-10-31 09:06:10,Sondheim Hall,53.6,Medium,Indoor,Quiet
+2024-10-31 09:06:12,Sondheim Hall,51.3,Medium,Indoor,Quiet
+2024-10-31 09:06:15,Sondheim Hall,37.5,Medium,Indoor,Quiet
+2024-10-31 09:06:17,Sondheim Hall,48.8,Medium,Indoor,Quiet
+2024-10-31 09:06:19,Sondheim Hall,43.1,Medium,Indoor,Quiet
+2024-10-31 09:06:21,Sondheim Hall,49.3,Medium,Indoor,Quiet
+2024-10-31 09:13:22,Sondheim Hall,45.7,Medium,Indoor,Quiet
+2024-10-31 09:13:24,Sondheim Hall,51.9,Medium,Indoor,Moderate
+2024-10-31 09:13:27,Sondheim Hall,50.1,Medium,Indoor,Quiet
+2024-10-31 09:13:28,Sondheim Hall,42.1,Medium,Indoor,Quiet
+2024-10-31 09:13:30,Sondheim Hall,48.4,Medium,Indoor,Quiet
+2024-10-31 09:23:33,Sondheim Hall,41.9,Medium,Indoor,Quiet
+2024-10-31 09:23:35,Sondheim Hall,47.5,Medium,Indoor,Quiet
+2024-10-31 09:23:38,Sondheim Hall,53.1,Medium,Indoor,Quiet
+2024-10-31 09:23:39,Sondheim Hall,52.0,Medium,Indoor,Quiet
+2024-10-31 09:23:42,Sondheim Hall,39.1,Medium,Indoor,Quiet
+2024-10-31 09:23:44,Sondheim Hall,38.0,Medium,Indoor,Quiet
+2024-10-31 09:23:47,Sondheim Hall,40.4,Medium,Indoor,Quiet
+2024-10-31 09:23:48,Sondheim Hall,52.1,Medium,Indoor,Quiet
+2024-10-31 09:28:51,Sondheim Hall,51.3,Medium,Indoor,Quiet
+2024-10-31 09:28:52,Sondheim Hall,47.0,Medium,Indoor,Quiet
+2024-10-31 09:28:53,Sondheim Hall,48.3,Medium,Indoor,Quiet
+2024-10-31 09:28:56,Sondheim Hall,43.5,Medium,Indoor,Quiet
+2024-10-31 09:28:57,Sondheim Hall,44.5,Medium,Indoor,Moderate
+2024-10-31 09:37:58,Sondheim Hall,42.9,Medium,Indoor,Quiet
+2024-10-31 09:37:59,Sondheim Hall,39.4,Medium,Indoor,Quiet
+2024-10-31 09:38:00,Sondheim Hall,44.0,Medium,Indoor,Quiet
+2024-10-31 09:38:02,Sondheim Hall,50.2,Medium,Indoor,Quiet
+2024-10-31 09:38:03,Sondheim Hall,48.8,Medium,Indoor,Quiet
+2024-10-31 09:38:05,Sondheim Hall,52.7,Medium,Indoor,Quiet
+2024-10-31 09:38:07,Sondheim Hall,42.3,Medium,Indoor,Quiet
+2024-10-31 09:38:08,Sondheim Hall,51.2,Medium,Indoor,Quiet
+2024-10-31 09:44:09,Sondheim Hall,44.2,Medium,Indoor,Quiet
+2024-10-31 09:44:12,Sondheim Hall,35.0,Medium,Indoor,Quiet
+2024-10-31 09:44:14,Sondheim Hall,44.9,Medium,Indoor,Quiet
+2024-10-31 09:44:16,Sondheim Hall,37.9,Medium,Indoor,Quiet
+2024-10-31 09:44:19,Sondheim Hall,46.9,Medium,Indoor,Quiet
+2024-10-31 09:54:22,Sondheim Hall,41.1,Medium,Indoor,Quiet
+2024-10-31 09:54:23,Sondheim Hall,42.4,Medium,Indoor,Quiet
+2024-10-31 09:54:26,Sondheim Hall,45.3,Medium,Indoor,Quiet
+2024-10-31 09:54:29,Sondheim Hall,43.4,Medium,Indoor,Quiet
+2024-10-31 09:54:30,Sondheim Hall,39.0,Medium,Indoor,Quiet
+2024-10-31 09:59:31,Sondheim Hall,46.3,Medium,Indoor,Quiet
+2024-10-31 09:59:32,Sondheim Hall,42.6,Medium,Indoor,Quiet
+2024-10-31 09:59:35,Sondheim Hall,45.2,Medium,Indoor,Quiet
+2024-10-31 09:59:38,Sondheim Hall,43.8,Medium,Indoor,Quiet
+2024-10-31 09:59:39,Sondheim Hall,48.6,Medium,Indoor,Quiet
+2024-10-31 09:59:41,Sondheim Hall,46.1,Medium,Indoor,Quiet
